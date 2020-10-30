@@ -1,0 +1,185 @@
+,Institution name,DUNS,OPEID,IPEDs,ZIP_x,notes,State,UNITID,SECTOR,HBCU,TRIBAL,LOCALE,OPENPUBL,CARNEGIE
+0,University of Alabama at Birmingham,63690705,105200,100663,35294,,AL,100663,1,2,2,12,1,15
+1,University of Alabama,45632635,105100,100751,35487,Tuscaloosa (only),AL,100751,1,2,2,12,1,15
+2,University of South Alabama,172750234,105700,102094,36688,,AL,102094,1,2,2,12,1,16
+3,"University of Alaska, Fairbanks",615245164,,102614,99775,,AK,,,,,,,
+4,University of Arizona,806345617,108300,104179,85719,,AZ,104179,1,2,2,11,1,15
+6,Northern Arizona University,806345542,108200,105330,86011,,AZ,105330,1,2,2,13,1,16
+7,University of Arkansas,191429745,,106397,72701,,AR,,,,,,,
+8,"California State University, Chico",612177162,,110538,95928,,CA,,,,,,,
+9,"California State University, Long Beach",6199129,,110583,90815,,CA,,,,,,,
+10,"California State University, Los Angeles",66697590,114000,110592,90032,,CA,110592,1,2,2,11,1,21
+11,"California State University, Sacramento",29031796,115000,110617,95819,Not 100% sure of DUNS because not yet in G5 for IES,CA,110617,1,2,2,11,1,21
+12,"University of California, Berkeley",124726725,131200,110635,94710,,CA,110635,1,2,2,12,1,15
+13,"University of California, Santa Cruz",125084723,132100,110714,95064,,CA,110714,1,2,2,13,1,15
+14,"University of California, Davis",47120084,131300,110644,95618,,CA,110644,1,2,2,23,1,15
+15,"University of California, Irvine",46705849,131400,110653,92617,,CA,110653,1,2,2,11,1,15
+16,"University of California, Los Angeles",92530369,131500,110662,90095,,CA,110662,1,2,2,11,1,15
+17,"University of California, Riverside",627797426,131600,110671,92521,,CA,110671,1,2,2,11,1,15
+18,"University of California, San Diego",804355790,131700,110680,92093,,CA,110680,1,2,2,11,1,15
+19,"University of California, San Francisco",94878337,131900,110699,94143,,CA,110699,1,2,2,11,1,16
+20,"University of California, Santa Barbara",94878394,132000,110705,93106,,CA,110705,1,2,2,22,1,15
+21,Mills College,73929002,123800,118888,94613,,CA,118888,2,2,2,11,1,31
+22,Pepperdine University,72280175,1014900,121150,90263,,CA,121150,2,2,2,21,1,16
+23,RAND Corporation,6914071,1044100,121628,90401,,CA,121628,2,2,2,13,1,59
+24,San Diego State University,73371346,,122409,92182,,CA,,,,,,,
+25,San Francisco State University,942514985,115400,122597,94132,,CA,122597,1,2,2,11,1,21
+26,University of Southern California,72933393,132800,123961,90007,,CA,123961,2,2,2,11,1,15
+27,"University of Colorado, Denver",15634884,,126562,80204,,CO,,,,,,,
+28,University of Colorado Health Sciences Center,41096314,450800,126562,80045,,CO,126562,1,2,2,11,1,16
+29,"University of Colorado, Colorado Springs",186192829,450900,126580,80918,,CO,126580,1,2,2,11,1,21
+30,"University of Colorado, Boulder",7431505,137000,126614,80309,,CO,126614,1,2,2,12,1,15
+31,University of Denver,7431760,137100,127060,80210,,CO,127060,2,2,2,11,1,15
+32,University of Northern Colorado,73410185,134900,127741,80639,,CO,127741,1,2,2,12,1,16
+33,University of Connecticut,614209054,141700,129020,6269,"UConn, Storrs",CT,129020,1,2,2,21,1,15
+38,University of Connecticut Health Center,22254226,,129020,6032,"UNIVERSITY OF CONNECTICUT, farmington",CT,,,,,,,
+39,Yale University,43207562,142600,130794,6511,,CT,130794,2,2,2,12,1,15
+40,University of Delaware,59007500,143100,130943,19716,,DE,130943,1,2,2,21,1,15
+41,Georgetown University,49515844,144500,131496,20057,,DC,131496,2,2,2,11,1,15
+42,Florida Atlantic University,4147534,,133669,33431,,FL,,,,,,,
+43,Florida International University,71298814,963500,133951,33199,,FL,133951,1,2,2,21,1,15
+44,Florida State University,790877419,148900,134097,32306,,FL,134097,1,2,2,12,1,15
+45,University of Florida,969663814,153500,134130,32611,,FL,134130,1,2,2,12,1,15
+47,University of Miami,625229190,,135726,33146,"both of thes numbers lead to the same city, not a medical school (<a href=""https://www.ora.miami.edu/forms-and-rates/institutional-information/index.html"">https://www.ora.miami.edu/forms-and-rates/institutional-information/index.html</a>)",FL,,,,,,,
+50,University of South Florida,69687242,153700,137351,33620,,FL,137351,1,2,2,11,1,15
+52,Emory University,66469933,156400,139658,30322,,GA,139658,2,2,2,11,1,15
+54,Georgia State University,837322494,157400,139940,30303,,GA,139940,1,2,2,11,1,15
+56,University of Georgia,4315578,,139959,30602,,GA,,,,,,,
+57,University of Hawaii,783414741,,141574,96822,,HI,,,,,,,
+58,Boise State University,72995848,161600,142115,83725,,ID,142115,1,2,2,12,1,21
+59,Idaho State University,78341468,162000,142276,83209,,ID,142276,1,2,2,13,1,16
+60,University of Chicago,5421136,177400,144050,60637,,IL,144050,2,2,2,11,1,15
+61,DePaul University,45694130,167100,144740,60604,,IL,144740,2,2,2,11,1,16
+62,"University of Illinois, Chicago",98987217,177600,145600,60612,,IL,145600,1,2,2,11,1,15
+63,Illinois State University,1898142,169200,145813,61790,,IL,145813,1,2,2,22,1,16
+64,Lake Forest College,74583899,170600,146481,60045,,IL,146481,2,2,2,21,1,31
+65,Loyola University Chicago,74368911,,146719,60660,,IL,,,,,,,
+66,Northern Illinois University,1745512,173700,147703,60115,,IL,147703,1,2,2,23,1,15
+67,Northwestern University,160079455,,147767,60208,,IL,,,,,,,
+68,"University of Illinois, Urbana-Champaign",41544081,177500,149587,61801,,IL,145637,1,2,2,13,1,15
+70,Indiana University,6046700,181400,151351,47405,,IN,151333,1,2,2,13,1,32
+76,University of Notre Dame,824910376,184000,152080,46556,,IN,152080,2,2,2,21,1,15
+77,Iowa State University,5309844,186900,153603,50011,,IA,153603,1,2,2,13,1,15
+78,University of Iowa,62761671,,153658,52242,,IA,,,,,,,
+79,University of Kansas,76248616,,155317,66045,"UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC.",KS,,,,,,,
+80,University of Kentucky,939017877,,157085,40526,,KY,,,,,,,
+81,University of Louisville,57588857,,157289,40208,,KY,,,,,,,
+82,Louisiana State University,75050765,201000,159391,70803,,LA,159391,1,2,2,12,1,15
+83,Tulane University,53785812,202900,160755,70118,,LA,160755,2,2,2,11,1,15
+84,Johns Hopkins University,1910777,207700,162928,21218,,MD,162928,2,2,2,11,1,15
+85,"University of Maryland, Baltimore County",61364808,,163268,21250,,MD,,,,,,,
+86,"University of Maryland, College Park",790934285,210300,163286,20742,,MD,163286,1,2,2,21,1,15
+87,Boston College,45896339,212800,164924,2467,,MA,164924,2,2,2,13,1,15
+88,Boston University,49435266,,164988,2215,,MA,,,,,,,
+89,Harvard University,82359691,,166027,2138,President and Fellows of Harvard College,MA,,,,,,,
+90,College of the Holy Cross,41509506,214100,166124,1610,,MA,166124,2,2,2,12,1,31
+91,"University of Massachusetts, Amherst",153926712,,166629,1003,,MA,,,,,,,
+92,"University of Massachusetts, Boston",808008122,222200,166638,2125,,MA,166638,1,2,2,11,1,16
+93,"University of Massachusetts, Medical School",603847393,975600,166708,1655,Worchester,MA,166708,1,2,2,12,1,52
+94,Northeastern University,1423631,219900,167358,2115,,MA,167358,2,2,2,11,1,15
+96,"University of Massachusetts, Dartmouth",799477427,221000,167987,2747,North Dartmouth,MA,167987,1,2,2,22,1,21
+97,Tufts University,73134835,,168148,02155-5555,,MA,,,,,,,
+98,Worcester Polytechnic Institute,41508581,223300,168421,1609,,MA,168421,2,2,2,12,1,16
+99,University of Michigan,73133571,232500,170976,48109,,MI,170976,1,2,2,12,1,15
+100,Michigan State University,193247145,229000,171100,48824,,MI,171100,1,2,2,13,1,15
+101,Wayne State University,1962224,232900,172644,48202,,MI,172644,1,2,2,11,1,15
+102,Western Michigan University,622364479,233000,172699,49008,,MI,172699,1,2,2,13,1,15
+103,University of Minnesota,555917996,396900,174066,55455,,MN,174066,1,2,2,11,1,15
+106,Mississippi State University,75461814,242300,176080,39762,,MS,176080,1,2,2,33,1,15
+107,University of Southern Mississippi,623335775,244100,176372,39401,,MS,176372,1,2,2,13,1,15
+108,"University of Missouri, Kansas City",10989619,,178402,64110,,MO,,,,,,,
+109,"University of Missouri, St. Louis",804883825,,178420,63121,,MO,,,,,,,
+110,"University of Missouri, Columbia",6326904,251600,178439,65211,,MO,178396,1,2,2,12,1,15
+115,Saint Louis University,50220722,250600,179159,63103,,MO,179159,2,2,2,11,1,15
+116,"Washington University, St. Louis",68552207,252000,179867,63130,,MO,179867,2,2,2,21,1,15
+117,"University of Nebraska, Omaha",190827162,255400,181394,68182,,NE,181394,1,2,2,11,1,21
+118,"University of Nebraska, Lincoln",555456995,256596,181464,68503,,NE,181765,4,2,2,43,1,-2
+119,Nevada System of Higher Education,146515460,256800,182290,89557,,NV,182290,1,2,2,11,1,15
+120,University of New Hampshire,111089470,,183044,3824,,NH,,,,,,,
+121,"Rutgers University, Camden",625216556,262901,186371,8102,,NJ,186371,1,2,2,13,1,21
+122,Rutgers University,1912864,262900,186380,8901,This is for the New Brunswick campus (the default),NJ,186380,1,2,2,13,1,15
+123,Seton Hall University,79324315,263200,186584,7079,,NJ,186584,2,2,2,21,1,16
+124,Canisius College ,71486583,268100,189705,14208,,NY,189705,2,2,2,11,1,21
+125,City University of New York (CUNY),603507570,,190035,10017,"RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK, New York",NY,,,,,,,
+126,Columbia University,49179401,,190150,10027,,NY,,,,,,,
+127,Cornell University,872612445,,190415,14850,,NY,,,,,,,
+128,"Queens College, CUNY",619346146,269000,190664,11367,"RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK, Flushing",NY,190664,1,2,2,11,1,21
+129,Fordham University,71011019,272200,191241,10458,,NY,191241,2,2,2,11,1,15
+130,New York University,41968306,278500,193900,10012,,NY,193900,2,2,2,11,1,15
+131,University of Rochester,41294109,289400,195030,14627,,NY,195030,2,2,2,12,1,15
+132,"State University of New York (SUNY), Albany",152652822,,196060,12222,"see for whom the application is on behalf (RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE)",NY,,,,,,,
+133,"State University of New York (SUNY), Binghamton",90189965,283600,196079,13902,"see for whom the application is on behalf (RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE)",NY,196079,1,2,2,22,1,15
+134,"State University of New York (SUNY), Amherst",125261383,283700,196088,14228,"see for whom the application is on behalf (RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE)",NY,196088,1,2,2,21,1,15
+135,"State University of New York (SUNY), Stony Brook",804878247,283800,196097,11794,"see for whom the application is on behalf (RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE)",NY,196097,1,2,2,21,1,15
+136,"State University of New York (SUNY), Buffalo",612724732,284200,196130,14222,"see for whom the application is on behalf (RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE)",NY,196130,1,2,2,11,1,21
+137,Syracuse University,2257350,288200,196413,13244,,NY,196413,2,2,2,12,1,15
+138,"Teachers College, Columbia University",71050983,397900,196468,10027,,NY,196468,2,2,2,11,1,15
+139,Duke University,44387793,292000,198419,27708,,NC,198419,2,2,2,11,1,15
+140,East Carolina University,607579018,292300,198464,27858,,NC,198464,1,2,2,13,1,16
+141,"University of North Carolina, Chapel Hill",608195277,297400,199120,27599,,NC,199120,1,2,2,13,1,15
+142,"University of North Carolina, Charlotte",66300096,,199139,28223,,NC,,,,,,,
+143,"University of North Carolina, Greensboro",616152567,297600,199148,27412,,NC,199148,1,2,2,11,1,16
+144,North Carolina Central University,783691801,295000,199157,27707,,NC,199157,1,1,2,11,1,21
+145,North Carolina State University,42092122,,199193,27607,,NC,,,,,,,
+146,University of Cincinnati,41064767,312500,201885,45220,,OH,201885,1,2,2,11,1,15
+149,Cleveland State University,10841617,303200,202134,44115,,OH,202134,1,2,2,11,1,16
+150,Kent State University,41071101,305105,203517,44242,,OH,203447,1,2,2,32,1,40
+158,Miami University,41065129,,204024,45056,,OH,,,,,,,
+159,Ohio State University,832127323,,204796,43210,,OH,,,,,,,
+160,Ohio University,41077983,310006,204857,45701,,OH,204802,1,2,2,41,1,40
+166,University of Toledo,51623734,313100,206084,43606,,OH,206084,1,2,2,11,1,15
+167,University of Oklahoma Health Sciences Center,878648294,318401,207342,73104,University of Oklahoma in Oklahoma City,OK,207342,1,2,2,11,1,52
+168,University of Oklahoma,848348348,,207500,73019,This is the Norman campus,OK,,,,,,,
+169,Oregon State University,53599908,,209445,97331,,OR,,,,,,,
+170,Oregon Health and Science University,96997515,488200,209490,97239,,OR,209490,1,2,2,11,1,52
+171,University of Oregon,79289626,322300,209551,97403,,OR,209551,1,2,2,12,1,15
+172,Portland State University,52226800,321600,209807,97201,,OR,209807,1,2,2,11,1,16
+173,Carnegie Mellon University,52184116,324200,211440,15213,,PA,211440,2,2,2,11,1,15
+174,Duquesne University,4501193,325800,212106,15219,,PA,212106,2,2,2,11,1,16
+175,Lehigh University,808264444,,213543,18015,,PA,,,,,,,
+176,Pennsylvania State University,3403953,332922,214777,16802,,PA,212018,1,2,2,13,1,57
+200,University of Pennsylvania,42250712,337800,215062,19104,,PA,215062,2,2,2,11,1,15
+201,University of Pittsburgh,4514360,337900,215293,15213,,PA,215293,1,2,2,11,1,15
+202,Temple University,57123192,337100,216339,19122,,PA,216339,1,2,2,11,1,15
+203,University of Richmond,56915069,374400,233374,23173,,VA,233374,2,2,2,12,1,31
+204,Brown University,1785542,340100,217156,2912,,RI,217156,2,2,2,12,1,15
+205,Clemson University,42629816,342500,217882,29634,,SC,217882,1,2,2,21,1,15
+206,University of South Carolina,41387846,345000,218663,29208,,SC,218654,1,2,2,31,1,40
+207,University of Memphis,55688857,350900,220862,38152,,TN,220862,1,2,2,11,1,15
+208,Middle Tennessee State University,77648780,351000,220978,37132,,TN,220978,1,2,2,12,1,16
+209,University of Tennessee,3387891,353000,221759,37916,,TN,221759,1,2,2,12,1,15
+210,Vanderbilt University,965717143,,221999,37203,Also uses this DUNS 4413456,TN,,,,,,,
+211,Baylor University,7516735,,223232,76706,,TX,,,,,,,
+212,University of Houston,36837920,365200,225511,77004,,TX,225511,1,2,2,11,1,15
+214,University of North Texas,614168995,,227216,76203,,TX,,,,,,,
+215,Rice University,50299031,360400,227757,77005,WILLIAM MARSH RICE UNIVERSITY,TX,227757,2,2,2,11,1,15
+216,Southern Methodist University,1981133,,228246,75205,,TX,,,,,,,
+217,Texas State University,74602368,361500,228459,78666,,TX,228459,1,2,2,13,1,21
+218,Texas A&M University,20271826,,228723,77843-1248,,TX,,,,,,,
+219,"University of Texas, Dallas",800188161,974100,228787,75080,,TX,228787,1,2,2,12,1,16
+220,Texas Christian University,43807882,,228875,76129,,TX,,,,,,,
+221,"University of Texas, San Antonio",800189185,1011500,229027,78249,,TX,229027,1,2,2,11,1,21
+222,"University of Texas, Austin",170230239,365800,229090,78712,,TX,228778,1,2,2,11,1,15
+223,University of Texas Health Science Center at Houston,800771594,495100,229300,77030,,TX,229300,1,2,2,11,1,52
+224,Utah State University,72983455,367700,230728,84322,,UT,230728,1,2,2,13,1,15
+225,Weber State University,73000895,368000,230782,84408,,UT,230782,1,2,2,13,1,22
+226,University of Vermont,66811191,369600,231174,5405,,VT,231174,1,2,2,13,1,15
+227,The College of William and Mary,74762238,370500,231624,23185,,VA,231624,1,2,2,23,1,16
+228,George Mason University,77817450,374900,232186,22030,,VA,232186,1,2,2,21,1,16
+229,Old Dominion University,77945947,,232982,23508,,VA,,,,,,,
+230,Virginia Commonwealth University,105300446,373500,234030,23284,,VA,234030,1,2,2,12,1,15
+231,University of Virginia,65391526,374500,234076,22903,,VA,234076,1,2,2,23,1,15
+232,Washington State University,41485301,380000,236939,99164,,WA,236939,1,2,2,32,1,15
+233,University of Washington,42803536,,236948,98195,(had old DUNS = 605799469),WA,,,,,,,
+234,Milwaukee School of Engineering,6433452,386800,239318,53202,,WI,239318,2,2,2,11,1,54
+235,"University of Wisconsin, Madison",161202122,,240444,53715,,WI,,,,,,,
+236,"University of Wisconsin, Milwaukee",627906399,,240453,53211,,WI,,,,,,,
+237,University of Wyoming,69690956,393200,240727,82071,,WY,240727,1,2,2,33,1,15
+238,University of Guam,7.79908E+12,,240754,96923,,Guam,,,,,,,
+239,Stanford University,9214214,130500,243744,94305,,CA,243744,2,2,2,21,1,15
+240,Purdue University,72051394,182700,243780,47907,,IN,490805,1,2,2,21,1,21
+241,South Carolina Department of Education,69313609,,392415,29201,,SC,,,,,,,
+242,Erikson Institute,109012328,3510300,409254,60654,,IL,409254,2,2,2,11,1,-2
+243,"University of California, Merced",113645084,4127100,445188,95344,,CA,445188,1,2,2,41,1,-2
+244,Colorado State University,785979618,135000,446978,80521,,CO,126818,1,2,2,12,1,15
+245,Ball State University,65540726,178600,150136,47306,,IN,150136,1,2,2,13,1,16
