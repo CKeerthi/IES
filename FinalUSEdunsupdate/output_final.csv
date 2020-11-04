@@ -1,0 +1,524 @@
+1,Institution name,DUNS,OPEID,IPEDs,ZIP,notes,State,UNITID,SECTOR,HBCU,TRIBAL,LOCALE,OPENPUBL,CARNEGIE,LONGITUD,LATITUDE
+2,University of Alabama at Birmingham,63690705,105200,100663,35294,,AL,100663,1,2,2,12,1,15,-86.799345,33.505697
+3,University of Alabama,45632635,105100,100751,35487,Tuscaloosa (only),AL,100751,1,2,2,12,1,15,-87.545978,33.211875
+4,University of South Alabama,172750234,105700,102094,36688,,AL,102094,1,2,2,12,1,16,-88.178711,30.696033
+5,"University of Alaska, Fairbanks",615245164,106300,102614,99775,,AK,102614,1,2,2,23,1,16,-147.823146,64.85756
+6,University of Arizona,806345617,108300,104179,85719,,AZ,104179,1,2,2,11,1,15,-110.950815,32.232672
+7,Northern Arizona University,806345542,108200,105330,86011,,AZ,105330,1,2,2,13,1,16,-111.653724,35.188449
+8,University of Arkansas,191429745,110800,106397,72701,,AR,106397,1,2,2,13,1,15,-94.176981,36.070009
+9,"California State University, Chico",612177162,114600,110538,95928,,CA,110538,1,2,2,13,1,21,-121.844859,39.729712
+10,"California State University, Long Beach",6199129,113900,110583,90815,,CA,110583,1,2,2,11,1,21,-118.11204,33.782818
+11,"California State University, Los Angeles",66697590,114000,110592,90032,,CA,110592,1,2,2,11,1,21,-118.168965,34.066927
+12,"California State University, Sacramento",29031796,115000,110617,95819,Not 100% sure of DUNS because not yet in G5 for IES,CA,110617,1,2,2,11,1,21,-121.423549,38.559415
+13,"University of California, Berkeley",124726725,131200,110635,94710,,CA,110635,1,2,2,12,1,15,-122.260463,37.871918
+14,"University of California, Santa Cruz",125084723,131200,110635,94710,,CA,110635,1,2,2,12,1,15,-122.260463,37.871918
+15,"University of California, Davis",47120084,131300,110644,95618,,CA,110644,1,2,2,23,1,15,-121.749567,38.539667
+16,"University of California, Irvine",46705849,131400,110653,92617,,CA,110653,1,2,2,11,1,15,-117.841248,33.648434
+17,"University of California, Los Angeles",92530369,131500,110662,90095,,CA,110662,1,2,2,11,1,15,-118.443901,34.068892
+18,"University of California, Riverside",627797426,131600,110671,92521,,CA,110671,1,2,2,11,1,15,-117.32741,33.97246
+19,"University of California, San Diego",804355790,131700,110680,92093,,CA,110680,1,2,2,11,1,15,-117.235866,32.877749
+20,"University of California, San Francisco",94878337,131900,110699,94143,,CA,110699,1,2,2,11,1,16,-122.458489,37.763737
+21,"University of California, Santa Barbara",94878394,132000,110705,93106,,CA,110705,1,2,2,22,1,15,-119.846426,34.416297
+22,Mills College,73929002,123800,118888,94613,,CA,118888,2,2,2,11,1,31,-122.182294,37.781425
+23,Pepperdine University,72280175,1014900,121150,90263,,CA,121150,2,2,2,21,1,16,-118.707077,34.037786
+24,RAND Corporation,6914071,1044100,121628,90401,,CA,121628,2,2,2,13,1,59,-118.490655,34.00973
+25,San Diego State University,73371346,115100,122409,92182,,CA,122409,1,2,2,11,1,16,-117.071228,32.77525
+26,San Francisco State University,942514985,115400,122597,94132,,CA,122597,1,2,2,11,1,21,-122.476799,37.721224
+27,University of Southern California,72933393,132800,123961,90007,,CA,123961,2,2,2,11,1,15,-118.284169,34.021281
+28,"University of Colorado, Denver",15634884,450800,126562,80204,,CO,126562,1,2,2,11,1,16,-104.837722,39.745149
+29,"University of Colorado, Colorado Springs",186192829,450900,126580,80918,,CO,126580,1,2,2,11,1,21,-104.800296,38.892735
+30,"University of Colorado, Boulder",7431505,137000,126614,80309,,CO,126614,1,2,2,12,1,15,-105.270823,40.008781
+31,"University of Colorado, Boulder",7431505,137000,126614,80309,,CO,128300,0,2,2,11,1,-2,-104.983277,39.74521
+32,University of Denver,7431760,137100,127060,80210,,CO,127060,2,2,2,11,1,15,-104.963259,39.678005
+33,University of Northern Colorado,73410185,134900,127741,80639,,CO,127741,1,2,2,12,1,16,-104.692777,40.410855
+34,University of Connecticut,614209054,141700,129020,6269,"UConn, Storrs",CT,129020,1,2,2,21,1,15,-72.249948,41.809098
+35,University of Connecticut Health Center,22254226,141700,129020,6032,"UNIVERSITY OF CONNECTICUT, farmington",CT,129020,1,2,2,21,1,15,-72.249948,41.809098
+36,Yale University,43207562,142600,130794,6511,,CT,130794,2,2,2,12,1,15,-72.926688,41.311158
+37,University of Delaware,59007500,143100,130943,19716,,DE,130943,1,2,2,21,1,15,-75.752822,39.679577
+38,Georgetown University,49515844,144500,131496,20057,,DC,131496,2,2,2,11,1,15,-77.073463,38.908809
+39,Florida Atlantic University,4147534,148100,133669,33431,,FL,133669,1,2,2,13,1,16,-80.102978,26.372421
+40,Florida International University,71298814,963500,133951,33199,,FL,133951,1,2,2,21,1,15,-80.373928,25.75732
+41,Florida State University,790877419,148900,134097,32306,,FL,134097,1,2,2,12,1,15,-84.291921,30.440756
+42,University of Florida,969663814,153500,134130,32611,,FL,134130,1,2,2,12,1,15,-82.347911,29.64629
+43,University of Florida,969663814,153500,134130,32611,,FL,484473,1,2,2,12,1,-2,-82.339848,29.649413
+44,University of Miami,625229190,153600,135726,33146,"both of thes numbers lead to the same city, not a medical school (<a href=""https://www.ora.miami.edu/forms-and-rates/institutional-information/index.html"">https://www.ora.miami.edu/forms-and-rates/institutional-information/index.html</a>)",FL,135726,2,2,2,13,1,15,-80.278662,25.72126
+45,University of North Florida,969663814,984100,136172,32224,,FL,136172,1,2,2,11,1,21,-81.509144,30.27194
+46,University of South Florida,69687242,153700,137351,33620,,FL,137351,1,2,2,11,1,15,-82.413232,28.061458
+47,Emory University,66469933,156400,139658,30322,,GA,139658,2,2,2,11,1,15,-84.325512,33.790183
+48,Georgia State University,837322494,157400,139940,30303,,GA,139940,1,2,2,11,1,15,-84.38667,33.7527
+49,University of Georgia,4315578,159800,139959,30602,,GA,139959,1,2,2,12,1,15,-83.374039,33.956262
+50,University of Hawaii,783414741,161000,141574,96822,,HI,141574,1,2,2,11,1,15,-157.818979,21.298598
+51,Boise State University,72995848,161600,142115,83725,,ID,142115,1,2,2,12,1,21,-116.203301,43.604284
+52,Idaho State University,78341468,162000,142276,83209,,ID,142276,1,2,2,13,1,16,-112.432312,42.863832
+53,University of Chicago,5421136,177400,144050,60637,,IL,144050,2,2,2,11,1,15,-87.599539,41.787994
+54,DePaul University,45694130,167100,144740,60604,,IL,144740,2,2,2,11,1,16,-87.62724,41.877618
+55,"University of Illinois, Chicago",98987217,177600,145600,60612,,IL,145600,1,2,2,11,1,15,-87.650503,41.871837
+56,Illinois State University,1898142,169200,145813,61790,,IL,145813,1,2,2,22,1,16,-88.990058,40.509403
+57,Lake Forest College,74583899,170600,146481,60045,,IL,146481,2,2,2,21,1,31,-87.827454,42.249574
+58,Loyola University Chicago,74368911,171000,146719,60660,,IL,146719,2,2,2,11,1,15,-87.656872,42.000765
+59,Northern Illinois University,1745512,173700,147703,60115,,IL,147703,1,2,2,23,1,15,-88.766428,41.933869
+60,Northwestern University,160079455,173900,147767,60208,,IL,147767,2,2,2,13,1,15,-87.679858,42.050356
+61,"University of Illinois, Urbana-Champaign",41544081,800100,149587,61801,,IL,149587,0,2,2,13,1,-2,-88.228381,40.108488
+62,Indiana University,6046700,800200,151351,47405,,IN,,,,,,,,,
+63,University of Notre Dame,824910376,184000,152080,46556,,IN,152080,2,2,2,21,1,15,-86.238959,41.703058
+64,Iowa State University,5309844,186900,153603,50011,,IA,153603,1,2,2,13,1,15,-93.648504,42.026212
+65,University of Iowa,62761671,189200,153658,52242,,IA,153658,1,2,2,13,1,15,-91.536425,41.661935
+66,University of Kansas,76248616,194800,155317,66045,"UNIVERSITY OF KANSAS CENTER FOR RESEARCH, INC.",KS,155317,1,2,2,13,1,15,-95.247567,38.958549
+67,University of Kentucky,939017877,198900,157085,40526,,KY,157085,1,2,2,11,1,15,-84.504747,38.038911
+68,University of Louisville,57588857,199900,157289,40208,,KY,157289,1,2,2,11,1,15,-85.760412,38.216862
+69,Louisiana State University,75050765,201000,159391,70803,,LA,159391,1,2,2,12,1,15,-91.178921,30.414986
+70,Tulane University,53785812,202900,160755,70118,,LA,160755,2,2,2,11,1,15,-90.122144,29.940069
+71,Johns Hopkins University,1910777,207700,162928,21218,,MD,162928,2,2,2,11,1,15,-76.621595,39.328977
+72,"University of Maryland, Baltimore County",61364808,210500,163268,21250,,MD,163268,1,2,2,21,1,15,-76.711607,39.256686
+73,"University of Maryland, College Park",790934285,210397,163286,20742,,MD,,,,,,,,,
+74,Boston College,45896339,212800,164924,2467,,MA,164924,2,2,2,13,1,15,-71.169242,42.336213
+75,Boston University,49435266,213000,164988,2215,,MA,164988,2,2,2,11,1,15,-71.107942,42.351118
+76,Harvard University,82359691,215500,166027,2138,President and Fellows of Harvard College,MA,166027,2,2,2,12,1,15,-71.118313,42.374471
+77,College of the Holy Cross,41509506,214100,166124,1610,,MA,166124,2,2,2,12,1,31,-71.808214,42.23752
+78,"University of Massachusetts, Amherst",153926712,222100,166629,1003,,MA,166629,1,2,2,21,1,15,-72.526728,42.385999
+79,"University of Massachusetts, Boston",808008122,222200,166638,2125,,MA,166638,1,2,2,11,1,16,-71.036865,42.312881
+80,"University of Massachusetts, Medical School",603847393,975600,166708,1655,Worchester,MA,166708,1,2,2,12,1,52,-71.762144,42.278002
+81,Northeastern University,1423631,219900,167358,2115,,MA,167358,2,2,2,11,1,15,-71.088782,42.339992
+82,Northeastern University,1423631,219900,167358,2115,,MA,482705,2,2,2,11,1,-2,-71.087841,42.339477
+83,"University of Massachusetts, Dartmouth",799477427,221000,167987,2747,North Dartmouth,MA,167987,1,2,2,22,1,21,-71.004552,41.62869
+84,Tufts University,73134835,221900,168148,02155-5555,,MA,168148,2,2,2,21,1,15,-71.118293,42.40855
+85,Worcester Polytechnic Institute,41508581,223300,168421,1609,,MA,168421,2,2,2,12,1,16,-71.808339,42.274853
+86,University of Michigan,73133571,232500,170976,48109,,MI,170976,1,2,2,12,1,15,-83.742769,42.275921
+87,Michigan State University,193247145,229000,171100,48824,,MI,171100,1,2,2,13,1,15,-84.476111,42.73212
+88,Wayne State University,1962224,232900,172644,48202,,MI,172644,1,2,2,11,1,15,-83.068998,42.358994
+89,Western Michigan University,622364479,233000,172699,49008,,MI,172699,1,2,2,13,1,15,-85.613759,42.282194
+90,University of Minnesota,555917996,396900,174066,55455,,MN,174066,1,2,2,11,1,15,-93.235464,44.972851
+91,Mississippi State University,75461814,242300,176080,39762,,MS,176080,1,2,2,33,1,15,-88.790139,33.454852
+92,University of Southern Mississippi,623335775,244100,176372,39401,,MS,176372,1,2,2,13,1,15,-89.331236,31.32661
+93,"University of Missouri, Kansas City",10989619,251800,178402,64110,,MO,178402,1,2,2,11,1,16,-94.582141,39.034179
+94,"University of Missouri, St. Louis",804883825,251900,178420,63121,,MO,178420,1,2,2,21,1,16,-90.311091,38.710312
+95,"University of Missouri, Columbia",6326904,251500,178439,65211,,MO,178439,0,2,2,12,1,-2,-92.340999,38.93682
+96,Saint Louis University,50220722,250600,179159,63103,,MO,179159,2,2,2,11,1,15,-90.2351,38.636801
+97,"Washington University, St. Louis",68552207,252000,179867,63130,,MO,179867,2,2,2,21,1,15,-90.310604,38.647929
+98,"University of Nebraska, Omaha",190827162,255400,181394,68182,,NE,181394,1,2,2,11,1,21,-96.008516,41.258769
+99,"University of Nebraska, Lincoln",555456995,256500,181464,68503,,NE,181464,1,2,2,11,1,15,-96.700508,40.817598
+100,Nevada System of Higher Education,146515460,256800,182290,89557,,NV,182290,1,2,2,11,1,15,-119.815377,39.543642
+101,University of New Hampshire,111089470,258900,183044,3824,,NH,183044,1,2,2,23,1,15,-70.932465,43.135934
+102,"Rutgers University, Camden",625216556,262901,186371,8102,,NJ,186371,1,2,2,13,1,21,-75.12224,39.948064
+103,Rutgers University,1912864,262900,186380,8901,This is for the New Brunswick campus (the default),NJ,186380,1,2,2,13,1,15,-74.446251,40.498769
+104,Seton Hall University,79324315,263200,186584,7079,,NJ,186584,2,2,2,21,1,16,-74.246027,40.742336
+105,Canisius College ,71486583,268100,189705,14208,,NY,189705,2,2,2,11,1,21,-78.852577,42.925206
+106,City University of New York (CUNY),603507570,2506100,190035,10017,"RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK, New York",NY,190035,0,2,2,11,1,-2,-73.973639,40.750845
+107,Columbia University,49179401,270700,190150,10027,,NY,190150,2,2,2,11,1,15,-73.961885,40.808286
+108,Cornell University,872612445,271100,190415,14850,,NY,190415,2,2,2,13,1,15,-76.483084,42.4472
+109,"Queens College, CUNY",619346146,269000,190664,11367,"RESEARCH FOUNDATION OF THE CITY UNIVERSITY OF NEW YORK, Flushing",NY,190664,1,2,2,11,1,21,-73.816098,40.735182
+110,Fordham University,71011019,272200,191241,10458,,NY,191241,2,2,2,11,1,15,-73.882705,40.859354
+111,New York University,41968306,278500,193900,10012,,NY,193900,2,2,2,11,1,15,-73.997264,40.729452
+112,University of Rochester,41294109,289400,195030,14627,,NY,195030,2,2,2,12,1,15,-77.631202,43.126397
+113,"State University of New York (SUNY), Albany",152652822,283500,196060,12222,"see for whom the application is on behalf (RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE)",NY,196060,1,2,2,13,1,15,-73.824662,42.685489
+114,"State University of New York (SUNY), Binghamton",90189965,283600,196079,13902,"see for whom the application is on behalf (RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE)",NY,196079,1,2,2,22,1,15,-75.966889,42.087868
+115,"State University of New York (SUNY), Amherst",125261383,283700,196088,14228,"see for whom the application is on behalf (RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE)",NY,196088,1,2,2,21,1,15,-78.789458,43.000942
+116,"State University of New York (SUNY), Stony Brook",804878247,283800,196097,11794,"see for whom the application is on behalf (RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE)",NY,196097,1,2,2,21,1,15,-73.12046,40.91476
+117,"State University of New York (SUNY), Buffalo",612724732,284200,196130,14222,"see for whom the application is on behalf (RESEARCH FOUNDATION FOR THE STATE UNIVERSITY OF NEW YORK, THE)",NY,196130,1,2,2,11,1,21,-78.882125,42.933832
+118,Syracuse University,2257350,288200,196413,13244,,NY,196413,2,2,2,12,1,15,-76.136975,43.040176
+119,"Teachers College, Columbia University",71050983,397900,196468,10027,,NY,196468,2,2,2,11,1,15,-73.960194,40.810216
+120,Duke University,44387793,292000,198419,27708,,NC,198419,2,2,2,11,1,15,-78.937624,36.001135
+121,East Carolina University,607579018,292300,198464,27858,,NC,198464,1,2,2,13,1,16,-77.368291,35.607186
+122,"University of North Carolina, Chapel Hill",608195277,297400,199120,27599,,NC,199120,1,2,2,13,1,15,-79.050969,35.911769
+123,"University of North Carolina, Charlotte",66300096,297500,199139,28223,,NC,199139,1,2,2,11,1,21,-80.730919,35.306022
+124,"University of North Carolina, Greensboro",616152567,297600,199148,27412,,NC,199148,1,2,2,11,1,16,-79.809414,36.068236
+125,North Carolina Central University,783691801,295000,199157,27707,,NC,199157,1,1,2,11,1,21,-78.898602,35.974237
+126,North Carolina State University,42092122,297200,199193,27607,,NC,199193,1,2,2,11,1,15,-78.674517,35.785111
+127,University of Cincinnati,41064767,312500,201885,45220,,OH,201885,1,2,2,11,1,15,-84.51428,39.131159
+128,Cleveland State University,10841617,303200,202134,44115,,OH,202134,1,2,2,11,1,16,-81.674355,41.502281
+129,Kent State University,41071101,305100,203517,44242,,OH,203517,1,2,2,21,1,15,-81.342533,41.146653
+130,Miami University,41065129,307700,204024,45056,,OH,204024,1,2,2,31,1,16,-84.732954,39.507757
+131,Ohio State University,832127323,309000,204796,43210,,OH,204796,1,2,2,11,1,15,-83.014853,39.999324
+132,Ohio University,41077983,310000,204857,45701,,OH,204857,1,2,2,32,1,15,-82.100985,39.326798
+133,University of Toledo,51623734,313100,206084,43606,,OH,206084,1,2,2,11,1,15,-83.614714,41.660572
+134,University of Oklahoma Health Sciences Center,878648294,318401,207342,73104,University of Oklahoma in Oklahoma City,OK,207342,1,2,2,11,1,52,-97.496289,35.47928
+135,University of Oklahoma,848348348,318400,207500,73019,This is the Norman campus,OK,207500,1,2,2,22,1,15,-97.444211,35.209407
+136,Oregon State University,53599908,321000,209445,97331,,OR,209542,1,2,2,13,1,15,-123.274723,44.56395
+137,Oregon Health and Science University,96997515,488200,209490,97239,,OR,209490,1,2,2,11,1,52,-122.686096,45.498772
+138,University of Oregon,79289626,322300,209551,97403,,OR,209551,1,2,2,12,1,15,-123.075792,44.045146
+139,Portland State University,52226800,321600,209807,97201,,OR,209807,1,2,2,11,1,16,-122.686289,45.511601
+140,Carnegie Mellon University,52184116,324200,211440,15213,,PA,211440,2,2,2,11,1,15,-79.941993,40.44357
+141,Duquesne University,4501193,325800,212106,15219,,PA,212106,2,2,2,11,1,16,-79.993123,40.43589
+142,Lehigh University,808264444,328900,213543,18015,,PA,213543,2,2,2,13,1,15,-75.380236,40.606822
+143,Pennsylvania State University,3403953,332900,214777,16802,,PA,214777,1,2,2,13,1,15,-77.862848,40.7965
+144,Pennsylvania State University,3403953,332900,214777,16802,,PA,479956,1,2,2,41,1,-2,-77.841594,40.832783
+145,University of Pennsylvania,42250712,337800,215062,19104,,PA,215062,2,2,2,11,1,15,-75.19391,39.950929
+146,University of Pittsburgh,4514360,337900,215293,15213,,PA,215293,1,2,2,11,1,15,-79.953254,40.444388
+147,Temple University,57123192,337100,216339,19122,,PA,216339,1,2,2,11,1,15,-75.156859,39.980546
+148,University of Richmond,56915069,337100,216339,19122,,PA,216339,1,2,2,11,1,15,-75.156859,39.980546
+149,Brown University,1785542,340100,217156,2912,,RI,217156,2,2,2,12,1,15,-71.40385,41.82617
+150,Clemson University,42629816,342500,217882,29634,,SC,217882,1,2,2,21,1,15,-82.835114,34.679381
+151,University of South Carolina,41387846,344800,218663,29208,,SC,218663,1,2,2,12,1,15,-81.026935,33.996788
+152,University of Memphis,55688857,350900,220862,38152,,TN,220862,1,2,2,11,1,15,-89.938068,35.118878
+153,Middle Tennessee State University,77648780,351000,220978,37132,,TN,220978,1,2,2,12,1,16,-86.360618,35.848005
+154,University of Tennessee,3387891,353000,221759,37916,,TN,221759,1,2,2,12,1,15,-83.925852,35.952082
+155,Vanderbilt University,965717143,353500,221999,37203,Also uses this DUNS 4413456,TN,221999,2,2,2,11,1,15,-86.803369,36.14659
+156,Baylor University,7516735,354500,223232,76706,,TX,223232,2,2,2,12,1,16,-97.121041,31.546872
+157,University of Houston,36837920,365200,225511,77004,,TX,225511,1,2,2,11,1,15,-95.343537,29.720393
+158,University of North Texas,614168995,359400,227216,76203,,TX,227216,1,2,2,12,1,15,-97.148422,33.211178
+159,University of North Texas,614168995,359400,227216,76203,,TX,443711,0,2,2,11,1,-2,-96.795217,32.78176
+160,Rice University,50299031,360400,227757,77005,WILLIAM MARSH RICE UNIVERSITY,TX,227757,2,2,2,11,1,15,-95.402035,29.717897
+161,Southern Methodist University,1981133,361300,228246,75205,,TX,228246,2,2,2,21,1,15,-96.783365,32.843612
+162,Texas State University,74602368,361500,228459,78666,,TX,228459,1,2,2,13,1,21,-97.943029,29.888885
+163,Texas A&M University,20271826,363200,228723,77843-1248,,TX,228723,1,2,2,12,1,15,-96.336475,30.618726
+164,Texas A&M University,20271826,363200,228723,77843-1248,,TX,228732,0,2,2,12,1,-2,-96.327705,30.636846
+165,"University of Texas, Dallas",800188161,974100,228787,75080,,TX,228787,1,2,2,12,1,16,-96.749702,32.984673
+166,Texas Christian University,43807882,363600,228875,76129,,TX,228875,2,2,2,11,1,16,-97.364758,32.70961
+167,Texas Christian University,43807882,363600,228875,76129,,TX,450304,2,2,2,11,1,-2,-97.359137,32.710145
+168,"University of Texas, San Antonio",800189185,1011500,229027,78249,,TX,229027,1,2,2,11,1,21,-98.620657,29.583709
+169,"University of Texas, Austin",170230239,365500,229090,78712,,TX,229090,0,2,2,11,1,-2,-97.744284,30.269742
+170,University of Texas Health Science Center at Houston,800771594,495100,229300,77030,,TX,229300,1,2,2,11,1,52,-95.403183,29.702873
+171,Utah State University,72983455,367700,230728,84322,,UT,230728,1,2,2,13,1,15,-111.81391,41.740748
+172,Weber State University,73000895,368000,230782,84408,,UT,230782,1,2,2,13,1,22,-111.944845,41.192591
+173,University of Vermont,66811191,369600,231174,5405,,VT,231174,1,2,2,13,1,15,-73.196646,44.477325
+174,The College of William and Mary,74762238,370500,231624,23185,,VA,231624,1,2,2,23,1,16,-76.708214,37.269489
+175,George Mason University,77817450,374900,232186,22030,,VA,232186,1,2,2,21,1,16,-77.307428,38.829976
+176,Old Dominion University,77945947,372800,232982,23508,,VA,232982,1,2,2,12,1,15,-76.30666,36.886418
+177,Virginia Commonwealth University,105300446,373500,234030,23284,,VA,234030,1,2,2,12,1,15,-77.452697,37.54962
+178,University of Virginia,65391526,374500,234076,22903,,VA,234076,1,2,2,23,1,15,-78.503428,38.035665
+179,Washington State University,41485301,380000,236939,99164,,WA,236939,1,2,2,32,1,15,-117.158168,46.730448
+180,University of Washington,42803536,379800,236948,98195,(had old DUNS = 605799469),WA,236948,1,2,2,11,1,15,-122.30514,47.65538
+181,Milwaukee School of Engineering,6433452,386800,239318,53202,,WI,239318,2,2,2,11,1,54,-87.907691,43.045364
+182,"University of Wisconsin, Madison",161202122,389500,240444,53715,,WI,240444,1,2,2,11,1,15,-89.404098,43.075409
+183,"University of Wisconsin, Milwaukee",627906399,389600,240453,53211,,WI,240453,1,2,2,11,1,15,-87.880488,43.076848
+184,"University of Wisconsin, Milwaukee",627906399,389600,240453,53211,,WI,491288,1,2,2,11,1,-2,-87.880488,43.076848
+185,University of Wyoming,69690956,393200,240727,82071,,WY,240727,1,2,2,33,1,15,-105.57931,41.311773
+186,University of Guam,7.79908E+12,393500,240754,96923,,Guam,240754,1,2,2,33,1,21,144.803978,13.433047
+187,Stanford University,9214214,130500,243744,94305,,CA,243744,2,2,2,21,1,15,-122.167359,37.429434
+188,Purdue University,72051394,182500,243780,47907,,IN,243780,1,2,2,13,1,15,-86.914435,40.428206
+189,South Carolina Department of Education,69313609,3424400,392415,29201,,SC,,,,,,,,,
+190,Erikson Institute,109012328,3510300,409254,60654,,IL,409254,2,2,2,11,1,-2,-87.632178,41.890663
+191,"University of California, Merced",113645084,4127100,445188,95344,,CA,445188,1,2,2,41,1,-2,-120.424944,37.366237
+192,Colorado State University,785979618,3343700,446978,80521,,CO,446978,0,2,2,11,1,-2,-104.988932,39.744084
+193,University of British Columbia,251949962,,,V6T 1,,Canada,,,,,,,,,
+194,1st Playable Productions,787314058,,,12180,Woman owned,NY,,,,,,,,,
+195,21st Century Partnership for STEM Education,807179697,,,19428,,PA,,,,,,,,,
+196,3-C Institute for Social Development,46981549,,,27713,Woman owned,NC,,,,,,,,,
+197,AbleLink Technologies,8546678,,,80923,HUBZone Owned,CO,,,,,,,,,
+198,"Abt Associates, Inc.",43397520,,,2138,,MA,,,,,,,,,
+199,Active Artz,,,,80920,Woman owned,CO,,,,,,,,,
+200,Active Joint Venture,78849187,,,13868,Woman owned,CO,,,,,,,,,
+201,"Advanced Fuel Research, Inc.",21804661,,,6108,no special status,CT,,,,,,,,,
+202,"Agile Mind, Inc.",112208488,,,76051,no special status,TX,,,,,,,,,
+203,Alabama State Department of Education,627193386,,,36130,,AL,,,,,,,,,
+204,Alaska Department of Education and Early Development,809386824,,,99801,,AK,,,,,,,,,
+205,Alchemie,54577584,,,48083,Woman owned,MI,,,,,,,,,
+206,Allegheny Singer Research Institute,33098401,,,15212,,PA,,,,,,,,,
+207,American Association for the Advancement of Science (AAAS),77795672,,,20005,,DC,,,,,,,,,
+208,American Councils for International Education,626950422,,,20036,,DC,,,,,,,,,
+209,"American Educational Association, Inc.",,,,48834,no special status,MI,,,,,,,,,
+210,American Institutes for Research (AIR),41733197,,,20007,,DC,,,,,,,,,
+211,Amplify Education,15995710,,,11201,,NY,,,,,,,,,
+212,Analytic Focus,113227909,,,35293,Woman owned,AL,,,,,,,,,
+213,"Analytic Measures, Inc.",74649486,,,94301,no special status,CA,,,,,,,,,
+214,"Anautics, Inc.",24384633,,,73104,no special status,OK,,,,,,,,,
+215,Ansya Enterprise Solutions,,,,14534,both socially and economically disadvantaged and women owned,NY,,,,,,,,,
+216,"AP Ventures, LLC",5752289,,,21046,8(a); economically disadvantaged; women owned,MD,,,,,,,,,
+217,Applied Engineering Management Corporation,76856074,,,20171,Woman owned,VA,,,,,,,,,
+218,Apprendis,78689592,,,1503,no special status,MA,,,,,,,,,
+219,"Apprion, LLC",na,,,80303,no special status,CO,,,,,,,,,
+220,Arizona Department of Education,804746097,,,85007,,AZ,,,,,,,,,
+221,Arizona State University,943360412,,,85281,,AZ,,,,,,,,,
+222,Arkansas Department of Education,781558564,,,72201,,AR,,,,,,,,,
+223,"Assistech Systems, LLC ",1283642,,,97401,May also use Cognitopia,OR,,,,,,,,,
+224,"Attainment Company, Inc.",28855716,,,53593,no special status,WI,,,,,,,,,
+225,"Attention Control Systems, Inc.",808269588,,,94041,no special status,CA,,,,,,,,,
+226,"Aufero, Inc.",81240088,,,20147,Woman owned,VA,,,,,,,,,
+227,"Avencia, Inc.",93014574,,,19107,no special status,PA,,,,,,,,,
+228,"Beach Day Studios, LLC",113997448,,,98662 ,economically disadvantaged; women owned,WA,,,,,,,,,
+229,Berkeley Policy Associates,76555093,,,94610,,CA,,,,,,,,,
+230,Biological Sciences Curriculum Study (BSCS),173848607,,,80918,,CO,,,,,,,,,
+231,"Biostatistical Programming Associates, Inc.",19939545,,,7631,no special status,NJ,,,,,,,,,
+232,"Boulder Language Technologies, Inc.",791197622,,,80301,,CO,,,,,,,,,
+233,Brainquake,79655032,,,94952,no special status,CA,,,,,,,,,
+234,Branch Associates,837694744,,,19103 ,Small Disadvantaged Business,PA,,,,,,,,,
+235,Carnegie Foundation for the Advancement of Teaching,67831891,,,94305,,CA,,,,,,,,,
+236,"Carnegie Learning, Inc.",54011130,,,15219,no special status,PA,,,,,,,,,
+237,"CaseNEX, LLC",,,,22902,,VA,,,,,,,,,
+238,Center for Applied Linguistics (CAL),49515919,,,20016,,DC,,,,,,,,,
+239,Center for Applied Special Technology (CAST),196205314,,,1880,,MA,,,,,,,,,
+240,Center for Civic Education,147677520,,,91302,,CA,,,,,,,,,
+241,"Center for Research in Emotional and Social Health, Inc. (CRESH)",962696774,,,27713,,NC,,,,,,,,,
+242,"Center for Resource Management, Inc.",173851734,,,38010,Woman owned,NH,,,,,,,,,
+243,Cerebellum Corp.,,,,22042,no special status,VA,,,,,,,,,
+244,Charmtech Labs,807799924,,,11794,no special status,NY,,,,,,,,,
+245,"Chesapeake Research Associates, LLC",,,,21401,,MD,,,,,,,,,
+246,Children's Hospital Medical Center,71284913,,,45229,,OH,,,,,,,,,
+247,Children's Hospital of Philadelphia,73757627,,,19104,,PA,,,,,,,,,
+248,Children's Institute,8939162,,,14607,,NY,,,,,,,,,
+249,"Children's Progress, Inc.",154161660,,,10018,no special status,NY,,,,,,,,,
+250,Cincinnati Children's Hospital Medical Center,71284913,,,45229,,OH,,,,,,,,,
+251,CNA Corporation,622051969,,,22201,,VA,,,,,,,,,
+252,codeSpark,79498164,,,91103,no special status,CA,,,,,,,,,
+253,Cognitive Toybox,79799542,,,11201,Woman owned,NY,,,,,,,,,
+254,"Collaborative for Academic, Social, and Emotional Learning (CASEL)",24942242,,,60607,,IL,,,,,,,,,
+255,Colorado Department of Education,187406538,,,80203,,CO,,,,,,,,,
+256,Colorado Department of Higher Education,878558519,,,80202,,CO,,,,,,,,,
+257,"Common Ground Publishing, LLC",791792406,,,61820,no special status,IL,,,,,,,,,
+258,Commonwealth of the Northern Mariana Islands Public School System,854854544,,,96950,,MP,,,,,,,,,
+259,"Community Knowledgebase, LLC",11115248,,,53717,no special status,WI,,,,,,,,,
+260,Concentric Research & Evaluation,829168181,,,2048,,MA,,,,,,,,,
+261,Connecticut Department of Education,807851118,,,6103,,CT,,,,,,,,,
+262,Core Learning Exchange,4819126,,,80301,no special status,CO,,,,,,,,,
+263,Correctional Education Association (CEA),112631130,,,20708,,MD,,,,,,,,,
+264,"Corridor Training Systems, Inc.",,,,88001,no special status,NM,,,,,,,,,
+265,Council of the Great City Schools,20306718,,,20004,,DC,,,,,,,,,
+266,"Creative Action, Inc.",859406332,,,44303,Woman owned,OH,,,,,,,,,
+267,"Creava, Inc.",143563026,,,94708,no special status,CA,,,,,,,,,
+268,"Current Conceptions, Inc.",,,,99163,no special status,WV,,,,,,,,,
+269,CurriculaWorks,165300935,,,94010,Woman owned,CA,,,,,,,,,
+270,CYBER Learning Corporation,884944893,,,89406,no special status,NV,,,,,,,,,
+271,Decision Information Resources,185966181,,,20855,no special status,MD,,,,,,,,,
+272,"Development Associates, Inc.",74852252,,,22201,,VA,,,,,,,,,
+273,"Development Services Group, Inc.",166113332,,,20814,,MD,,,,,,,,,
+274,District of Columbia Public Schools,603893657,,,20002,,DC,,,,,,,,,
+275,Diversified Painting & CO,790428346,,,1007,no special status,MA,,,,,,,,,
+276,EdBoost Education Corporation,133239215,,,90034,,CA,,,,,,,,,
+277,"Edstar, Inc.",29273294,,,27612,Woman owned,NC,,,,,,,,,
+278,Edsurge,78880188,,,94010,no special status,CA,,,,,,,,,
+279,"Education Development Center, Inc.",76583830,,,2453,,MA,,,,,,,,,
+280,Education Modified,926210027,,,2210,Woman owned,MA,,,,,,,,,
+281,Education Northwest,49793649,,,97204,,OR,,,,,,,,,
+282,Educational Testing Service (ETS),2508463,,,8540,,NJ,,,,,,,,,
+283,Eduvant,78723364,,,78751,no special status,TX,,,,,,,,,
+284,"Edvance Research, Inc.",604476007,,,78249,,TX,,,,,,,,,
+285,Electric Funstuff,77431794,,,10011,no special status,NY,,,,,,,,,
+286,"Empirical Education, Inc.",152857061,,,94306,no special status,CA,,,,,,,,,
+287,"Ergopedia, Inc.",,,,18100,no special status,MA,,,,,,,,,
+288,"eSpark, Inc.",40115576,,,60601,no special status,IL,,,,,,,,,
+289,Evaluation and Applied Research Associates,,,,78704,no special status,TX,,,,,,,,,
+290,"Fablevision, Inc.",14080480,,,2210,no special status,MA,,,,,,,,,
+291,Facet Innovation,140735775,,,98105,no special status,WA,,,,,,,,,
+292,Filament Games,801152211,,,53703,no special status,WI,,,,,,,,,
+293,Flip Learning,965533743,,,49007,no special status,MI,,,,,,,,,
+294,Florida Department of Education,785319963,,,32399,,FL,,,,,,,,,
+295,"Fluidity Software, Inc.",781455568,,,2144,no special status,MA,,,,,,,,,
+296,FokusLabs Behavioral Solutions,80331110,,,27587,no special status,NC,,,,,,,,,
+297,Foundations in Learning,962585241,,,52241,Woman owned,IA,,,,,,,,,
+298,Frontier Solutions,556964844,,,57042,no special status,SD,,,,,,,,,
+299,Future Engineers,65373265,,,91505,Woman owned,CA,,,,,,,,,
+300,G8four Consulting,14216507,,,35205,socially and economically disadvantaged,AL,,,,,,,,,
+301,"Ganahal Software, Inc.",,,,94107,no special status,CA,,,,,,,,,
+302,Georgia Institute of Technology,97394084,,,30318,,GA,,,,,,,,,
+303,"Gibson Consulting Group, Inc.",941914111,,,78746,,TX,,,,,,,,,
+304,Gigantic Mechanic,46091314,,,11231,no special status,NY,,,,,,,,,
+305,Grant Thornton,128159105,,,22209,,VA,,,,,,,,,
+306,Graspable,836486535,,,47408,no special status,IN,,,,,,,,,
+307,Guam Department of Education,855023255,,,96913,,GU,,,,,,,,,
+308,"HandHold Adaptive, LLC",830262445,,,,no special status,CT,,,,,,,,,
+309,"Happy People Games, LLC",79470132,,,10960,Woman owned,NY,,,,,,,,,
+310,Haskins Laboratories,60010147,,,6511,,CT,,,,,,,,,
+311,Hatchuel Tabernik and Associates,,,,94710,no special status,CA,,,,,,,,,
+312,"Hats & Ladders, Inc.",80422539,,,10011,no special status,NY,,,,,,,,,
+313,Hawaii State Department of Education,809935513,,,96813,,HI,,,,,,,,,
+314,HighScope Educational Research Foundation,78415452,,,48198,,MI,,,,,,,,,
+315,Hoogalit,67491986,,,94025,Woman owned,CA,,,,,,,,,
+316,"HOPE, Inc.",,,,84341,no special status,UT,,,,,,,,,
+317,"Hugo W Moser Research Institute at Kennedy Krieger, Inc.",155342439,,,21205,,MD,,,,,,,,,
+318,"HyperGalaxy, Inc.",,,,60194 ,no special status,IL,,,,,,,,,
+319,ICF International,72648579,,,22031,,VA,,,,,,,,,
+320,Immersed Games,73457404,,,14209,Woman owned,NY,,,,,,,,,
+321,IMPAQ International,88656512,,,21044,,MD,,,,,,,,,
+322,"Improve, LLC",614296858,,,10514,Woman owned,NY,,,,,,,,,
+323,Indiana Department of Education,824799209,,,46204,,IN,,,,,,,,,
+324,Infomosaic Corporation,,,,95050,CA,socially and economically  disadvantaged,,,,,,,,,
+325,Information Research Corporation,52874703,,,26452,HUB zone; Woman owned,WV,,,,,,,,,
+326,Innovation Design Labs,964564731,,,55414,no special status,MN,,,,,,,,,
+327,"Innovation Research and Training, Inc.",23317253,,,27713,,NC,,,,,,,,,
+328,"Insight Learning Technology, Inc.",829282107,,,90272,no special status,CA,,,,,,,,,
+329,"Instagrok, Inc.",78690829,,,94110,no special status,CA,,,,,,,,,
+330,"Institute for Disabilities Research and Training, Inc.",194180741,,,20902,Woman owned,MD,,,,,,,,,
+331,Institute for Research and Reform in Education (IRRE),120727669,,,7731,,NJ,,,,,,,,,
+332,Instructional Research Group,606697576,,,90720,,CA,,,,,,,,,
+333,"Insuractive, Inc. (IAI)",,,,22314,no special status,VA,,,,,,,,,
+334,Interactive Training Technologies,197559441,,,57103,no special status,SD,,,,,,,,,
+335,"Iota Solutions, Inc.",,,,30093,no special status,GA,,,,,,,,,
+336,Iowa Department of Education,808346555,,,50319,,IA,,,,,,,,,
+337,IQSonics,80433586,,,90403,no special status,CA,,,,,,,,,
+338,"IRIS Media, Inc.",72307593,,,97401,,OR,,,,,,,,,
+339,Kansas Department of Education,879897098,,,66612,,KS,,,,,,,,,
+340,KCP Technologies,19570956,,,94068,socially and economically disadvantaged,CA,,,,,,,,,
+341,"Kennedy Krieger Institute, Inc.",155342371,,,21205,,MD,,,,,,,,,
+342,Kentucky Department of Education,102594426,,,40601,,KY,,,,,,,,,
+343,"KIDSCook Products, LLC",615382228,,,2140,Woman owned,MA,,,,,,,,,
+344,"Kiko Labs, Inc.",78871920,,,94070,no special status,CA,,,,,,,,,
+345,Killer Snails,79621048,,,11226,both socially and economically disadvantaged and women owned,NY,,,,,,,,,
+346,"King's Peak Technology, Inc.",117376917,,,84604,no special status,UT,,,,,,,,,
+347,"Knowledge Analysis Technologies, LLC",43412936,,,80301,no special status,CO,,,,,,,,,
+348,Knowledge Athletes,94863383,,,14450,no special status,NY,,,,,,,,,
+349,KooApps,80973624,,,98008,,WV,,,,,,,,,
+350,KU Leuven,283400430,,,,,Belgium,,,,,,,,,
+351,Lane Educational Service District,93482008,,,97402,,OR,,,,,,,,,
+352,Language Learning Partners,,,,20003,no special status,DC,,,,,,,,,
+353,"Learnimation, LLC",16369576,,,10024,,NY,,,,,,,,,
+354,Learning Ovations,79149703,,,92617,no special status,CA,,,,,,,,,
+355,Learning Point Associates,160752192,,,60563,,IL,,,,,,,,,
+356,"LearnPlatform, Inc.",79669269,,,27603,no special status,NC,,,,,,,,,
+357,"LessonLab, Inc.",106754240,,,90405,,CA,,,,,,,,,
+358,Life Technologies,196919190,,,97405,no special status,OR,,,,,,,,,
+359,"Lighthaus, Inc.",79386361,,,90808,no special status,CA,,,,,,,,,
+360,"Lightside Labs, Inc.",79200266,,,15232,,PA,,,,,,,,,
+361,"LightUp, Inc.",78737978,,,94403,no special status,CA,,,,,,,,,
+362,Liminal eSports,81494175,,,44040,no special status,OH,,,,,,,,,
+363,Lingo Jingo,79412332,,,2482,no special status,MA,,,,,,,,,
+364,"LiveSchool, Inc.",21078226,,,37206,no special status,TN,,,,,,,,,
+365,Maine Department of Education,809045545,,,4333,,ME,,,,,,,,,
+366,"Makefully, LLC",80486028,,,64114,Woman owned,MO,,,,,,,,,
+367,Maryland Department of Education,183071471,,,21218,,MD,,,,,,,,,
+368,Marzano Research,611736062,,,80111,"Marzano Research, LLC ",CO,,,,,,,,,
+369,Massachusetts Department of Elementary and Secondary Education,799538178,,,2148,,MA,,,,,,,,,
+370,Mateo Software Consulting,143314693,,,48224,,MI,,,,,,,,,
+371,Mathalicious,965414316,,,78702,no special status,TX,,,,,,,,,
+372,"Mathematica Policy Research, Inc.",154308522,,,8540,,NJ,,,,,,,,,
+373,May Institute,81582637,,,2368,,MA,,,,,,,,,
+374,McLean Hospital,46514535,,,2478,,MA,,,,,,,,,
+375,McREL International,76287226,,,80237,,CO,,,,,,,,,
+376,MDRC,75258780,,,10281,,NY,,,,,,,,,
+377,Measured Progress,108183682,,,3820,,NH,,,,,,,,,
+378,Media Group of CT,,,,6883,,CT,,,,,,,,,
+379,"Meeting the Challenge, Inc.",,,,80907,no special status,CO,,,,,,,,,
+380,"Mentor Machines, LLC",,,,80302,,CO,,,,,,,,,
+381,Miami Museum of Science,73877037,,,33132,,FL,,,,,,,,,
+382,Michigan Department of Education,805336641,,,48909,,MI,,,,,,,,,
+383,Mid-continent Research for Education and Learning (McREL),76287226,,,80237,no special status,CO,,,,,,,,,
+384,"MidSchool Math, LLC ",4719997,,,87571,no special status,NM,,,,,,,,,
+385,MidSchoolMath,4719997,,,87571,,NM,,,,,,,,,
+386,"Mindset Works, LLC",940705937,,,91789,,CA,,,,,,,,,
+387,Minnesota Department of Education,933561318,,,55113,,MN,,,,,,,,,
+388,"Minott-Weihnacht Productions, Inc.",,,,94110,Woman owned,CA,,,,,,,,,
+389,"MolySym, Inc.",143412471,,,2139,no special status,MA,,,,,,,,,
+390,Montana Office of Public Instruction,809588700,,,59601,,MT,,,,,,,,,
+391,"MPR Associates, Inc.",148021272,,,94704,,CA,,,,,,,,,
+392,Mtelegence Corporation,139396779,,,7666,Woman owned,NJ,,,,,,,,,
+393,"Muzology, LLC",80403088,,,37212,Woman owned,TN,,,,,,,,,
+394,"MW Productions, Inc.",784651267,,,94107,Woman owned,CA,,,,,,,,,
+395,"Myriad Sensors, Inc.",79825163,,,94043,no special status,CA,,,,,,,,,
+396,National Academy of Education,834880262,,,20001,,DC,,,,,,,,,
+397,National Academy of Sciences,41964057,,,20418,,DC,,,,,,,,,
+398,National Bureau of Economic Research (NBER),54552435,,,2138,,MA,,,,,,,,,
+399,National Opinion Research Center (NORC),69512291,,,60603,,IL,,,,,,,,,
+400,Natural Math,601011385,,,27513,no special status,NC,,,,,,,,,
+401,Nebraska Department of Education,808819882,,,68508,,NE,,,,,,,,,
+402,Nemours Foundation,38004941,,,19803,,DE,,,,,,,,,
+403,"Neuron Farms, LLC",,,,53558,no special status,WI,,,,,,,,,
+404,Nevada Department of Education,809887722,,,89701,,NV,,,,,,,,,
+405,New Hampshire Department of Education,808590277,,,3301,,NH,,,,,,,,,
+406,New Jersey Department of Education,806417911,,,8611,,NJ,,,,,,,,,
+407,New York University School of Medicine,121911077,,,10016,,NY,,,,,,,,,
+408,Nia Solutions Corporation,,,,11772,no special status,NY,,,,,,,,,
+409,Nimble Assessments,615706772,,,2481,no special status,MA,,,,,,,,,
+410,North Carolina Department of Public Instruction,67195610,,,27601,,NC,,,,,,,,,
+411,North Dakota Department of Public Instruction,803755057,,,58505,,ND,,,,,,,,,
+412,"Northwestern University, Chicago",20960498,,,60611,No IPEDS no OPEID,IL,,,,,,,,,
+413,Oakland Unified School District,76554500,,,94607,,CA,,,,,,,,,
+414,Ohio Department of Education,809174378,,,43215,,OH,,,,,,,,,
+415,One Planet Education Network,131979200,,,2066,no special status,MA,,,,,,,,,
+416,Optimal Solutions Group,124021077,,,20740,certified small disadvantaged; 8(a),MD,,,,,,,,,
+417,Oregon Department of Education,809790264,,,97310,,OR,,,,,,,,,
+418,Oregon Research Institute,53615423,,,97403,,OR,,,,,,,,,
+419,Oregon Social Learning Center,84418656,,,97401,,OR,,,,,,,,,
+420,Orelena Hawks Puckett Institute,962991642,,,28655,,NC,,,,,,,,,
+421,"Oxton House Publishers, LLC",,,,49380,no special status,ME,,,,,,,,,
+422,"P20 Strategies, LLC",18808872,,,20910,,MD,,,,,,,,,
+423,Pacific Institutes for Research,132283107,,,97403,,OR,,,,,,,,,
+424,Pacific Resources for Education and Learning,797172798,,,96813,,HI,,,,,,,,,
+425,"Parametric Studios, Inc.",80053782,,,50010,no special status,IA,,,,,,,,,
+426,Pennsylvania Department of Education,795145705,,,17126,Old DUNS = 7782381,PA,,,,,,,,,
+427,Planet3,79593657,,,20008,no special status,DC,,,,,,,,,
+428,Play Works Studio,78830282,,,98166,Woman owned,WA,,,,,,,,,
+429,"Polyhedron Learning Media, Inc.",556059728,,,26003,Woman owned,WV,,,,,,,,,
+430,"Positive Action, Inc.",148452808,,,83301,Woman owned,ID,,,,,,,,,
+431,"Practica Research, LLC",,,,22183,Woman owned,VA,,,,,,,,,
+432,"Presence Telecare, LLC",20918662,,,94107,no special status,CA,,,,,,,,,
+433,"Progress Education, Inc.",556096399,,,60302,no special status,IL,,,,,,,,,
+434,Public Policy Institute of California,835131152,,,94111,,CA,,,,,,,,,
+435,"Quantum Simulations, Inc.",157033957,,,15668,,PA,,,,,,,,,
+436,Querium,41415085,,,78731,no special status,TX,,,,,,,,,
+437,Rady Children's Hospital Health Center,849289806,,,92123,,CA,,,,,,,,,
+438,"Readingware, LLC",615374092,,,92513,no special status,CA,,,,,,,,,
+439,REL Northwest,,,,,"According to CAM, this should be ""Education Northwest""",,,,,,,,,,
+440,Research Foundation for Mental Hygiene,167204762,,,10962,RESEARCH FOUNDATION FOR MENTAL HYGIENE,NY,,,,,,,,,
+441,Rhode Island Department of Education,929956563,,,2903,,RI,,,,,,,,,
+442,RMC Research Corporation,146589593,,,3801,no special status,NH,,,,,,,,,
+443,Rockman et al.,787637735,,,94018,no special status,CA,,,,,,,,,
+444,"ROI.com, Inc.",92337968,,,55447,no special status,MN,,,,,,,,,
+445,RTI International,4868105,,,27709,Research Triangle Institute,NC,,,,,,,,,
+446,Rush University Medical Center,68610245,,,60612,No IPEDS no OPEID,IL,,,,,,,,,
+447,Rutgers Graduate School of Education,,,,,"This should be the same as Rutgers, I believe",,,,,,,,,,
+448,"Ryll International, LLC",167079362,,,29671,Woman owned,SC,,,,,,,,,
+449,Safe Toddles,79642627,,,12590,Woman owned,NY,,,,,,,,,
+450,"Saint Paul Public Schools, ISD 625",71753248,,,55102,,MN,,,,,,,,,
+451,Schell Games,166975396,,,15219,no special status,PA,,,,,,,,,
+452,School Leadership Center of Greater New Orleans,701223534,,,70122,,LA,,,,,,,,,
+453,"ScienceMedia, Inc.",,,,92121,no special status,CA,,,,,,,,,
+454,Search Institute,78679982,,,55413,,MN,,,,,,,,,
+455,Second Avenue Software,789017394,,,14604,Woman owned,NY,,,,,,,,,
+456,"Select-O-Sep, LLC",615379737,,,43973,,OH,,,,,,,,,
+457,Seward Incorporated,927570515,,,55404,no special status,MN,,,,,,,,,
+458,SHW Enterprises,193677692,,,80211,no special status,CO,,,,,,,,,
+459,"Simbulus, Inc.",78732464,,,80302,no special status,CO,,,,,,,,,
+460,"SimInsights, Inc.",832803188,,,92630,no special status,CA,,,,,,,,,
+461,Simoysis,198336641,,,32732,no special status,FL,,,,,,,,,
+462,"Sirius Thinking, Ltd.",949450100,,,10065,no special status,NY,,,,,,,,,
+463,Siskin Children's Institute,30681191,,,37402,,TN,,,,,,,,,
+464,Social Policy Research Associates,788704229,,,94612 ,no special status,CA,,,,,,,,,
+465,Society for Research on Educational Effectiveness (SREE),830545823,,,60208,,IL,,,,,,,,,
+466,Socrative,79301381,,,2139,no special status,MA,,,,,,,,,
+467,"Software Outfitters, Inc.",15772507,,,66224,no special status,KS,,,,,,,,,
+468,South Dakota Health Technology,3599862,,,57103,Woman owned,SD,,,,,,,,,
+469,Southwest Educational Development Corporation (SEDL),63078299,,,78723,Now part of AIR,TX,,,,,,,,,
+470,Speak Agent,10428636,,,20850,no special status,MD,,,,,,,,,
+471,"Spectrum Education Group, LLC",129853073,,,84341,no special status,UT,,,,,,,,,
+472,Spry Fox,31856553,,,98034,no special status,WA,,,,,,,,,
+473,SRI International,9232752,,,94025,,CA,,,,,,,,,
+474,StoryWorld International,79881191,,,94127,economically disadvantaged; women owned,CA,,,,,,,,,
+475,Strange Loop Games,7875532,,,98103,no special status,WA,,,,,,,,,
+476,Strategic Education Research Partnership (SERP) Institute,615373508,,,20036,,DC,,,,,,,,,
+477,Student Employment Software,15795116,,,6830,Woman owned,CT,,,,,,,,,
+478,Success for All Foundation,22835586,,,21286,,MD,,,,,,,,,
+479,"SVR, Inc.",198129397,,,22306,no special status,VA,,,,,,,,,
+480,"SYTRONICS, Inc.",122543739,,,45432,no special status,OH,,,,,,,,,
+481,"Tactus Technologies, Inc.",102377582,,,14068,no special status,NY,,,,,,,,,
+482,"Teaching Research Institute, LLC",832873876,,,70808,Woman owned,LA,,,,,,,,,
+483,"Teachley, LLC",78363101,,,10004,Woman owned,NY,,,,,,,,,
+484,"TeachTown, LLC",,,,98012,,WA,,,,,,,,,
+485,"Technical Education Research Centers, Inc. (TERC)",71719801,,,2140,,MA,,,,,,,,,
+486,Tennessee Department of Education,879016251,,,37243,,TN,,,,,,,,,
+487,Texas Education Agency,179260856,,,78701,,TX,,,,,,,,,
+488,"The Athena Group, Inc.",362312290,,,32601,Woman owned,FL,,,,,,,,,
+489,The Hospital for Sick Children (SickKids) ,208511808,,,M5G 1,,Canada,,,,,,,,,
+490,"The Impact Lab,  LLC",63264141,,,60601,no special status,IL,,,,,,,,,
+491,The Learning Partnership,167004535,,,60558,,IL,,,,,,,,,
+492,The McKenzie Group,,,,20036,,DC,,,,,,,,,
+493,Thinkzone,79681906,,,27282,no special status,NC,,,,,,,,,
+494,"Thought Cycle, Inc.",966660156,,,97424,no special status,OR,,,,,,,,,
+495,"Tracen Technologies, Inc.",1016562,,,20110,socially and economically disadvantaged,VA,,,,,,,,,
+496,"Triad Interactive Media, Inc.",788284508,,,27703,no special status,NC,,,,,,,,,
+497,Tufts Medical Center,79532263,,,2111,,MA,,,,,,,,,
+498,"Turnaround for Children, Inc.",808184456,,,10036,,NY,,,,,,,,,
+499,TutorGen,967553566,,,16046,no special status,PA,,,,,,,,,
+500,University of Colorado Health Sciences Center,41096314,450800,126562,80045,,CO,126562,1,2,2,11,1,16,-104.837722,39.745149
+501,University of Cambridge,215592264,,,,,UK,,,,,,,,,
+502,Urban Institute,74803701,,,20024,,DC,,,,,,,,,
+503,"US Teach, Inc.",,,,95060,no special status,CA,,,,,,,,,
+504,"UserWorks, Inc.",,,,20903,no special status,MD,,,,,,,,,
+505,Utah State Office of Education,29999372,,,84111,,UT,,,,,,,,,
+506,Vanderbilt University Medical Center,79917897,,,37232,No IPEDS no OPEID,TN,,,,,,,,,
+507,Vantage Point Consulting,785824397,,,97068,economically disadvantaged; Woman owned,OR,,,,,,,,,
+508,VidCode,80014791,,,10038,Woman owned,NY,,,,,,,,,
+509,Virginia Department of Education,809740129,,,23219,,VA,,,,,,,,,
+510,Virtual Learning Technologies (Sokikom),828770508,,,94043,no special status,CA,,,,,,,,,
+511,"Vkidz, Inc.",143381460,,,33334,,FL,,,,,,,,,
+512,Vogel & Associates,27680961,,,94123,Woman owned,CA,,,,,,,,,
+513,Wake Forest University Health Sciences,937727907,,,27157,No IPEDS no OPEID,NC,,,,,,,,,
+514,Washington Office of Superintendent of Public Instruction,808882898,,,98504,,WA,,,,,,,,,
+515,Washington Research Institute,604257733,,,98109,,WA,,,,,,,,,
+516,"Wayman Services, LLC",,,,,"Should this actually be ""Wayman Consulting, LLC"" https://www.dnb.com/business-directory/company-profiles.wayman_consulting_llc.716851c77bce3f9c2180a9864704dd13.html",,,,,,,,,,
+517,Westat,49508120,,,20850,,MD,,,,,,,,,
+518,WestEd,74653882,,,94107,,CA,,,,,,,,,
+519,Whimsica Toys,947171062,,,95125,no special status,CA,,,,,,,,,
+520,Wisconsin Department of Education,809611254,,,53703,,WI,,,,,,,,,
+521,Wyoming Department of Education,809872336,,,82001,,WY,,,,,,,,,
+522,Zaption,79279749,,,91360,no special status,CA,,,,,,,,,
+,Zuni Learning Tree,80494814,,,72034,Woman owned,AR,,,,,,,,,
+,Zyante,33385935,,,95033,no special status,CA,,,,,,,,,
